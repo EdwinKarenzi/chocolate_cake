@@ -8,7 +8,7 @@
 
 ## Steps
 1. Mix ingredients.
-2. Bake at 180°C for 30 minutes.
+2. Bake at 175°C for 30 minutes.
 
 ## Tips
 - Servera med grädde.
