@@ -11,5 +11,8 @@
 1. Mix ingredients.
 2. Bake at 175°C for 30 minutes.
 
+## Vegan variant
+- Replace egg with flaxseed
+
 ## Tips
 - Servera med grädde.
