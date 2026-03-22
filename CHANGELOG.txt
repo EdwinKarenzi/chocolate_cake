@@ -1,0 +1,14 @@
+# CHANGELOG
+
+## v1.1.1 - 2026-03-22
+### Fixed
+- Korrigerad sockermängd till 120g
+
+## v1.1.0 - 2026-03-21
+### Added
+- Instruktioner för frosting
+- Valfri nöt som ingrediens
+
+## v1.0.0 - 2026-03-20
+### Added
+- Första versionen av chokladkakereceptet
