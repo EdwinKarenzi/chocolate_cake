@@ -5,6 +5,7 @@
 - 100g sugar
 - 2 eggs
 - 100g chocolate
+- 50g nuts (optional)
 
 ## Steps
 1. Mix ingredients.
